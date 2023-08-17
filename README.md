@@ -7,7 +7,7 @@ This is a simple Hangman game implemented using JavaScript, CSS, and HTML. The g
 1. Clone the repository:
 
    
-   git clone https://github.com/your-username/hangman.git
+   git clone https://github.com/Remmaabde/hangman.git
    
 
 2. Navigate to the project directory:
